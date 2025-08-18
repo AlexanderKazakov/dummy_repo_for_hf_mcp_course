@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "pr-agent": {
+      "command": "uv",
+      "args": ["--directory", "/home/alex/PycharmProjects/mcp-course/projects/unit3/github-actions-integration/starter", "run", "server.py"],
+      "timeout": 15000
+    }
+  }
+}
